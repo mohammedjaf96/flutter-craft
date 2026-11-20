@@ -1,0 +1,4 @@
+interface:
+  display_name: "Flutter Craft"
+  short_description: "Build Flutter apps with GetX and clear standards"
+  default_prompt: "Use $flutter-craft to build or update this Flutter app using its architecture and performance standards."
